@@ -1,6 +1,6 @@
 # Minishell
 
-This project is part of the School 42 curriculum and was developed as a group effort by two students.
+This project is part of the School 42 curriculum and was developed as a group project by me and Fernando Loula from School 42 as well.
 
 ## Description
 
